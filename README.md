@@ -14,6 +14,12 @@
 
 <h3 align="left">Languages (Beginner): </h3>
 
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" , width = 80/>
+
+</p>
+
+<p>
 <h3 align="left">Featured: </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThuHuynh2809&show_icons=true&theme=radical)
