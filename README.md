@@ -27,5 +27,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThuHuynh2809&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Add an animated emoji here -->
-![Kitty](https://github.com/ThuHuynh2809/ThuHuynh2809/blob/main/assets/kitty.gif)
+![Animated Image](https://link-to-your-animated-image.gif)
