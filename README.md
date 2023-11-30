@@ -6,8 +6,8 @@
 - ⚡ Check out my portfolio at: https://ThuHuynh2809.github.io
 - 
 <h3  align="left">Connect with me:</h3>
-<p align="left"><a  href=""  target="blank"><img src="https://img.icons8.com/bubbles/64/facebook-new.png"/></a>&nbsp;<a  href="https://"  target="blank"><img src="https://img.icons8.com/bubbles/64/linkedin.png"/></a>
- <a  href=""  target="blank"><img src="https://img.icons8.com/bubbles/64/youtube-squared.png"/>
+<p align="left"><a  href="https://www.facebook.com/profile.php?id=100022082081684&locale=vi_VN"  target="blank"><img src="https://img.icons8.com/bubbles/64/facebook-new.png"/></a>&nbsp;<a  href="https://www.instagram.com/hmt_2809/"  target="blank"><img src="https://img.icons8.com/bubbles/64/linkedin.png"/></a>
+ <a  href="https://www.youtube.com/channel/UCHycFp1GVnDR046b0d2OdCQ"  target="blank"><img src="https://img.icons8.com/bubbles/64/youtube-squared.png"/>
 </p>
 
 </p>
