@@ -13,11 +13,16 @@
   <a href="https://www.youtube.com/channel/UCHycFp1GVnDR046b0d2OdCQ" target="_blank"><img src="https://img.icons8.com/bubbles/64/youtube-squared.png"/></a>
 </p>
 
-<h3 align="left">Languages (Beginner): </h3>
-
+💻 Programming Languages:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript"/>
+</p>
+🛠️ Development Environments:
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Logo.svg" alt="IntelliJ IDEA" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/120px-Eclipse-SVG.svg.png" alt="Eclipse" width="45"/>
 </p>
 
 <p>
