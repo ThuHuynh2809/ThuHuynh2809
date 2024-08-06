@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hi Everyone, my name is Thu 👋</h1>
 
-- 🔭 I’m a student at [Industrial University of Ho Chi Minh City](https://iuh.edu.vn)
+<h1 align="center">👋 Hi Everyone, my name is Thu👋</h1>
+
+- 🔭 I’m a student at [Industrial University of Ho Chi Minh City](iuh.edu.vn)
 - 🌱 I’m learning 
 - 📫 How to reach me: **huynhminhthu860@gmail.com** or **20010211.thu@student.iuh.edu.vn**
 - ⚡ Check out my portfolio at: [https://ThuHuynh2809.github.io](https://ThuHuynh2809.github.io)
@@ -17,6 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="45"/>
 </p>
+</p>
 
 ### 🛠️ Development Environments:
 <p align="left">
@@ -31,11 +33,8 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="MariaDB" width="48"/>
 </p>
-
-### ✨ Featured:
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="400"/>
-</p>
+<p>
+<h3 align="left">Featured: </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThuHuynh2809&show_icons=true&theme=radical)
 
