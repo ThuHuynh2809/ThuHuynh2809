@@ -16,14 +16,15 @@
 💻 Programming Languages:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" alt="JavaScript" width="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="80"/>
+</p>
 </p>
 
 🛠️ Development Environments:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/45px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code"/>
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/120px-Eclipse-SVG.svg.png" alt="Eclipse" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ IDEA" width="45"/>
 </p>
 <p>
 <h3 align="left">Featured: </h3>
