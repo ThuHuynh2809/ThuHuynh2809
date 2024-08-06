@@ -29,9 +29,9 @@
 
 ### 🗄️ Databases:
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" alt="MySQL" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/1280px-MySQL_textlogo.svg.png" alt="MySQL" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://mariadb.com/kb/en/logo-mariadb/mysql-mariadb-48px.png" alt="MariaDB" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MariaDB_logo.svg/1280px-MariaDB_logo.svg.png" alt="MariaDB" width="48"/>
 </p>
 <p>
 <h3 align="left">Featured: </h3>
