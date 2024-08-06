@@ -1,10 +1,10 @@
 
 <h1 align="center">👋 Hi Everyone, my name is Thu👋</h1>
 
-- 🔭 I’m a student at [Industrial University of Ho Chi Minh City](iuh.edu.vn)
+- 🔭 I’m a student at [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
 - 🌱 I’m learning 
 - 📫 How to reach me: **huynhminhthu860@gmail.com** or **20010211.thu@student.iuh.edu.vn**
-- ⚡ Check out my portfolio at: [https://ThuHuynh2809.github.io](https://ThuHuynh2809.github.io)
+- ⚡ [Check out my repositories at](https://github.com/ThuHuynh2809?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
