@@ -31,7 +31,7 @@
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/1280px-MySQL_textlogo.svg.png" alt="MySQL" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MariaDB_Logo.png/1280px-MariaDB_Logo.png" alt="MariaDB" width="48"/>
+  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="MariaDB" width="48"/>
 </p>
 <p>
 <h3 align="left">Featured: </h3>
